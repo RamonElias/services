@@ -13,8 +13,7 @@ In the project directory, you can run:
 
 ### `npm run start`
 
-Runs the services
-Served in [http://localhost:12300](http://localhost:12300).
+Runs the services in [http://localhost:12300](http://localhost:12300).
 
 ### `npm run tests`
 
